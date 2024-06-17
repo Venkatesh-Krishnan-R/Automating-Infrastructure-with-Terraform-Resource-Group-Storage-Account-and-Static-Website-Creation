@@ -1,0 +1,1 @@
+source_content = "<h1 style=\"color:blue\">Hey Friends, this website was deployed with Terraform on Azure storage and is a bit advanced.</h1>"
